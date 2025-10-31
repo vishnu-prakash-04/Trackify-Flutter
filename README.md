@@ -1,16 +1,16 @@
-# trackify
+Trackify is a Flutter-based mobile application designed to help users manage their personal expenses efficiently. It features user authentication, expense logging, categorization, visualization through charts, and more.
 
-A new Flutter project.
+Features
+User Authentication: Secure login and signup using Firebase Authentication.
+Add Expenses: Easily add new expenses with categories, amounts, and dates.
+View Expenses: Browse and manage your expense history.
+Expense Charts: Visualize your spending patterns with interactive charts.
+Categories: Organize expenses into custom categories for better tracking.
+Screenshots
+(Add screenshots of your app here if available)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Getting Started
+Prerequisites
+Flutter SDK (version 3.0 or higher)
+Dart SDK
+Firebase account and project setup
